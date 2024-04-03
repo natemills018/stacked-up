@@ -16,7 +16,7 @@ if (isProduction) {
 
 // all our api routes
 app.get('/api/hello', (req, res) => {
-	res.json({ message: 'World' });
+	res.json({ message: 'World!!!!!!!!!' });
 });
 
 // 404 fallback for client side routing
